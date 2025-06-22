@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+transformers
+streamlit
+praw
+tweepy
+google-api-python-client
+plotly
+wordcloud
